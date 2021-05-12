@@ -1,0 +1,20 @@
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.bg-pink {
+    background-color: #E83E8C
+}
+
+.bg-calipso {
+    background-color: #17A2B8;
+}
+
+.img-footer {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 53px;
+    height: 100px;
+}
